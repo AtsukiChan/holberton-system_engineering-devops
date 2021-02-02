@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $water + $stir. = $behlnort
+expr $water[] + $stir.[] = $behlnort
