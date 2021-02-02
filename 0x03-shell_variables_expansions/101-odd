@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "*even*\n"
+grep [13579]$
