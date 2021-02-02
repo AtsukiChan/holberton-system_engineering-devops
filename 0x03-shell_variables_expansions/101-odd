@@ -1,2 +1,2 @@
 #!/bin/bash
-grep [24680]$
+perl -n -e '$.%2==0&&print'
